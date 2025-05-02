@@ -6,6 +6,7 @@ public class Class1 {
 		
 		System.out.println("Hello test class");
 		System.out.println("add command line");
+		System.out.println("hello test git");
 
 	}
 
